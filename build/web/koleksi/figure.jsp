@@ -60,7 +60,7 @@
 <body>
 
 <header>
-  <a href="index.jsp" class="back-button">Kembali</a>
+  <a href="../revisi.jsp" class="back-button">Kembali</a>
   <h1>Koleksi Figure</h1>
 </header>
 

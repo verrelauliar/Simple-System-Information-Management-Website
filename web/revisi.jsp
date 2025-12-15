@@ -268,10 +268,10 @@
     <div class="dropdown">
       <a href="#" onclick="toggleDropdown(event)">Data Koleksi ▼</a>
         <div class="dropdown-content" id="dropdown-koleksi">
-          <a href="seni.jsp">Koleksi Seni</a>
-          <a href="sejarah.jsp">Koleksi Sejarah</a>
-          <a href="budaya.jsp">Koleksi Budaya</a>
-          <a href="figure">Koleksi Figure</a>
+          <a href="koleksi/seni.jsp">Koleksi Seni</a>
+          <a href="koleksi/sejarah.jsp">Koleksi Sejarah</a>
+          <a href="koleksi/budaya.jsp">Koleksi Budaya</a>
+          <a href="koleksi/figure">Koleksi Figure</a>
         </div>
     </div>
 
