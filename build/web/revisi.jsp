@@ -11,7 +11,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Tugas SIM Kelompok 3 05TPLP002</title>
+  <title>Tugas Pemrogramman II 06TPLP002</title>
   <style>
     * {
       box-sizing: border-box;
@@ -348,9 +348,9 @@
         <p>221011450139</p>
       </div>
       <div class="dashboard-card">
-        <h4>Fadhil Nata Pratama</h4>
+        <h4>Abdul Hanif</h4>
         <p>Mahasiswa Universitas Pamulang</p>
-        <p>221011450131</p>
+        <p>221011450024</p>
       </div>
     </div>
   </div>

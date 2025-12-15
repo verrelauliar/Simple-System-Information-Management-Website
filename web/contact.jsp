@@ -70,9 +70,9 @@
       <td data-label="No. Telepon">0898-9181-0933</td>
     </tr>
     <tr>
-      <td data-label="Nama">Fadhil Nata Pratama</td>
+      <td data-label="Nama">Abdul Hanif</td>
       <td data-label="Posisi">Author Web Museum</td>
-      <td data-label="Email">pudel@museum.fr</td>
+      <td data-label="Email">hanyip@museum.fr</td>
       <td data-label="No. Telepon">0821-31232-1313</td>
     </tr>
   </tbody>
