@@ -11,7 +11,7 @@ import java.sql.*;
 @WebServlet(name = "LoginServlet", urlPatterns = {"/login"})
 public class LoginServlet extends HttpServlet {
 
-    private static final String DB_URL = "jdbc:mysql://localhost:3305/dbmuseum";
+    private static final String DB_URL = "jdbc:mysql://localhost:3306/dbmuseum";
     private static final String DB_USER = "root";
     private static final String DB_PASS = "";
 
