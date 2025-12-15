@@ -271,15 +271,15 @@
           <a href="koleksi/seni.jsp">Koleksi Seni</a>
           <a href="koleksi/sejarah.jsp">Koleksi Sejarah</a>
           <a href="koleksi/budaya.jsp">Koleksi Budaya</a>
-          <a href="koleksi/figure">Koleksi Figure</a>
+          <a href="koleksi/figure.jsp">Koleksi Figure</a>
         </div>
     </div>
 
     <div class="dropdown">
       <a href="#" onclick="toggleTentang(event)">Tentang ▼</a>
       <div class="dropdown-content" id="dropdown-tentang">
-        <a href="museum.php">Pengertian Museum</a>
-        <a href="sejarah.php">Sejarah Museum</a>
+        <a href="museum.jsp">Pengertian Museum</a>
+        <a href="sejarah.jsp">Sejarah Museum</a>
       </div>
     </div>
 
@@ -291,9 +291,9 @@
         <a href="pengaduan.php">Pengaduan Pengunjung</a>
       </div>
     </div>
-    <a href="Lokasi.php">Lokasi</a>
-    <a href="Event.php">Kegiatan</a>
-    <a href="index.html">Logout</a>
+    <a href="lokasi.jsp">Lokasi</a>
+    <a href="event.jsp">Kegiatan</a>
+    <a href="index.jsp">Logout</a>
   </div>
 
   <!-- Header -->
